@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <div className="mx-auto mx-w-6xl py-12">
+    <div className="">
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius culpa
       recusandae atque qui provident iusto quisquam. Praesentium, totam,
       voluptas debitis neque iusto architecto magnam, sint suscipit et quaerat
